@@ -1,17 +1,18 @@
 # Neutron-Star-Structure
 Numerical Solutions to the Structure of Neutron Stars using EoS
 
-Files: 
 
+# Files: 
+## Equations of State
 apr.txt-APR Equation of State
 
 fps.txt-FPS Equation of State
 
 sly.txt-SLy Equation of State
 
-
 EoS.py-Python file showing the CubicSpline Interpolation of EoS
 
+## Solution Files
 no_rot.py-Python file to solve for the structure of stationary neutron stars and plot relations between mass, radius and central density.
 
 no_rot1.py- Python file to solve for the structure of stationary neutron stars and plot relations between mass, radius and central density w.r.t surface redshift, Baryon number, Binding energy and Observed radii.
