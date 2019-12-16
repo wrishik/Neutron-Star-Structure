@@ -21,3 +21,4 @@ slow_rot.py-Python file to solve for the structure of slowly rotating neutron st
 
 slow_rot1.py-Python file to solve for the structure of slowly rotating neutron stars for a fixed central density and plot the relations between MOI, J, observed spin w.r.t intrinsic central spin.
 
+Tid_Def.py-Python file to solve for the structure of stationary neutron stars, and the equations of Tidal Deformability, and plot the relations between Love numbers and TD w.r.t. Mass and Compactness.
